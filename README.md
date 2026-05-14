@@ -53,6 +53,10 @@ The full-feature SVC outperforms the PCA-reduced model, with both showing consis
 BUSA3020_Assignment1.ipynb     # Full notebook with code and written analysis
 assignment_data/
   └── credit_data.xlsx         # Source dataset (credit card defaults)
+BUSA3020_Assignment1.ipynb          # Full notebook with code and written analysis
+assignment_data/
+  └── credit_data.xlsx              # Working dataset (10,345 rows, 22.4% default rate)
+  └── credit_card_defaults.xlsx     # Raw source dataset (30,000 rows, 22.1% default rate)
 ```
 
 ---
